@@ -3,12 +3,12 @@ Elegance meets functionality in a premium shopping experience.
 
 
 
-📚 Table of Contents
-Features
-Getting Started
-Prerequisites
-Installation
-Usage
+📚 Table of Contents  
+Features  
+Getting Started  
+Prerequisites  
+Installation  
+Usage  
 
 
 🌟 Features
