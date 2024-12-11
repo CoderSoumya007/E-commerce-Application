@@ -38,7 +38,7 @@ npm or yarn
 
 Installation
 Clone this repository:
-git clone [https://github.com/yourusername/luxe-boutique.git(https://github.com/CoderSoumya007/E-commerce-Application.git)
+git clone (https://github.com/CoderSoumya007/E-commerce-Application.git)
 cd my-app
 
 Install dependencies:
