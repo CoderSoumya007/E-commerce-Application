@@ -1,4 +1,4 @@
-Luxe Boutique: Interactive E-commerce Platform
+Infoware: Interactive E-commerce Platform
 Elegance meets functionality in a premium shopping experience.
 
 
